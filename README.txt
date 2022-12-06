@@ -4,3 +4,5 @@ List of the projects:
 - simple calculator (adding and subtracting)
 - program that opens a file and writes text in consol woithout numbers
 - print out all even numbers from 100 to number given by user
+
+estting git
